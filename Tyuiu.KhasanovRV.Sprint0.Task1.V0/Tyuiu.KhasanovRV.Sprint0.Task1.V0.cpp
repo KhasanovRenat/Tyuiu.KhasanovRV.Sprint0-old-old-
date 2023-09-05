@@ -14,7 +14,7 @@ int main()
     int v;
     cin >> v;
     cout << "Спасибо за информацию!";
-    
+
     return 0;
 
 }
