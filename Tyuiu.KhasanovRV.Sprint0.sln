@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{E1385A5E
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.KhasanovRV.Sprint0.Task0.V0", "Tyuiu.KhasanovRV.Sprint0.Task0.V0\Tyuiu.KhasanovRV.Sprint0.Task0.V0.vcxproj", "{2DF468A1-D158-45B9-93B7-832DFA1A100F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{64A0C55D-2CDF-4733-A82D-D03B09F4CFCB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tyuiu.KhasanovRV.Sprint0.Task1.V0", "Tyuiu.KhasanovRV.Sprint0.Task1.V0\Tyuiu.KhasanovRV.Sprint0.Task1.V0.vcxproj", "{B3752847-45F1-429E-9BB4-D185B9754F28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -23,12 +27,21 @@ Global
 		{2DF468A1-D158-45B9-93B7-832DFA1A100F}.Release|x64.Build.0 = Release|x64
 		{2DF468A1-D158-45B9-93B7-832DFA1A100F}.Release|x86.ActiveCfg = Release|Win32
 		{2DF468A1-D158-45B9-93B7-832DFA1A100F}.Release|x86.Build.0 = Release|Win32
+		{B3752847-45F1-429E-9BB4-D185B9754F28}.Debug|x64.ActiveCfg = Debug|x64
+		{B3752847-45F1-429E-9BB4-D185B9754F28}.Debug|x64.Build.0 = Debug|x64
+		{B3752847-45F1-429E-9BB4-D185B9754F28}.Debug|x86.ActiveCfg = Debug|Win32
+		{B3752847-45F1-429E-9BB4-D185B9754F28}.Debug|x86.Build.0 = Debug|Win32
+		{B3752847-45F1-429E-9BB4-D185B9754F28}.Release|x64.ActiveCfg = Release|x64
+		{B3752847-45F1-429E-9BB4-D185B9754F28}.Release|x64.Build.0 = Release|x64
+		{B3752847-45F1-429E-9BB4-D185B9754F28}.Release|x86.ActiveCfg = Release|Win32
+		{B3752847-45F1-429E-9BB4-D185B9754F28}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{2DF468A1-D158-45B9-93B7-832DFA1A100F} = {E1385A5E-81EC-4EE9-9060-1A4FE6205CF0}
+		{B3752847-45F1-429E-9BB4-D185B9754F28} = {64A0C55D-2CDF-4733-A82D-D03B09F4CFCB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {569A6B47-6E2F-4476-AD20-346F94FB3804}
