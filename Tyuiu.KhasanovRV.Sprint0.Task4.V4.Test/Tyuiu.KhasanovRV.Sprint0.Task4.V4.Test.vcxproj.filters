@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="pch.cpp">
+    <ClCompile Include="Tyuiu.KhasanovRV.Sprint0.Task4.V4.Test.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Tyuiu.KhasanovRV.Sprint0.Task3.V0.Test.cpp">
+    <ClCompile Include="pch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

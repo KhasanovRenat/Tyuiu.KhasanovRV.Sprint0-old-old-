@@ -15,16 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="pch.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Tyuiu.KhasanovRV.Sprint0.Task3.V0.Test.cpp">
+    <ClCompile Include="Tyuiu.KhasanovRV.Sprint0.Task4.V4.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="pch.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
+    <None Include="..\Tyuiu.Cours.cpp\Tyuiu.Cours.cpp.vcxproj" />
   </ItemGroup>
 </Project>
